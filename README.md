@@ -160,10 +160,10 @@ $ node .
   <!--
 # `CHANGE THESE SETTINGS`
 
-- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘉𝘖𝘛 𝘚𝘌𝘚𝘚𝘐𝘖𝘕      [★彡[ʜᴇʀᴇ]彡★](https://github.com/Alien-alfa/AlienAlfaBot/blob/master/session.json#L1)
-- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘖𝘞𝘕𝘌𝘙 𝘕𝘜𝘔𝘉𝘌𝘙    [★彡[ʜᴇʀᴇ]彡★](https://github.com/Alien-alfa/AlienAlfaBot/blob/master/setting/setting.json#L9)
-- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘖𝘞𝘕𝘌𝘙 𝘕𝘈𝘔𝘌      [★彡[ʜᴇʀᴇ]彡★](https://github.com/Alien-alfa/AlienAlfaBot/blob/master/setting/setting.json#L10)
-- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘉𝘖𝘛 𝘕𝘈𝘔𝘌        [★彡[ʜᴇʀᴇ]彡★](https://github.com/Alien-alfa/AlienAlfaBot/blob/master/setting/setting.json#L11)
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘉𝘖𝘛 𝘚𝘌𝘚𝘚𝘐𝘖𝘕      [★彡[ʜᴇʀᴇ]彡★](https://github.com/Alien-alfa/OrphanA/blob/master/session.json#L1)
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘖𝘞𝘕𝘌𝘙 𝘕𝘜𝘔𝘉𝘌𝘙    [★彡[ʜᴇʀᴇ]彡★](https://github.com/Alien-alfa/OrphanA/blob/master/setting/setting.json#L9)
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘖𝘞𝘕𝘌𝘙 𝘕𝘈𝘔𝘌      [★彡[ʜᴇʀᴇ]彡★](https://github.com/Alien-alfa/OrphanA/blob/master/setting/setting.json#L10)
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘉𝘖𝘛 𝘕𝘈𝘔𝘌        [★彡[ʜᴇʀᴇ]彡★](https://github.com/Alien-alfa/OrphanA/blob/master/setting/setting.json#L11)
   
   
 -->
